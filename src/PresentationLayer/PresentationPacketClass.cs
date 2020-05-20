@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using src.SessionLayer;
 
-namespace SessionPacket
+namespace src.PresentationLayer
 {
-    public class Class1
+    class PresentationPacket
     {
     }
 }

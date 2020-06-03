@@ -69,6 +69,7 @@
     </Compile>
     <Compile Include="src\PresentationLayer\PresentationPacketClass.cs" />
     <Compile Include="src\main.cs" />
+    <Compile Include="src\Security\Secrurity.cs" />
     <Compile Include="src\SessionLayer\SessionManagement.cs" />
     <Compile Include="src\SessionLayer\SessionPacketClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
